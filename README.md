@@ -43,8 +43,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
-
 
 [website]: https://ahmedzbyr.gitlab.io/
 [twitter]: https://twitter.com/ahmedzbyr
