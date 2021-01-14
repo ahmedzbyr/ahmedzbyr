@@ -40,7 +40,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [ERROR - java heap space caused using `distcp`.](https://ahmedzbyr.gitlab.io/yarn/hadoop/distcp-large-dataset/)
+- [Long Running Jobs in `YARN` `distcp`.](https://ahmedzbyr.gitlab.io/yarn/hadoop/long-running-yarn-jobs/)
+- [Bulk Upload Hfiles `doBulkLoad` - `LoadIncrementalHfiles` failed. This is recoverable. Hbase Encryption Zone.](https://ahmedzbyr.gitlab.io/hbase/hadoop/hbase-bulk-upload/)
+- [Checking `HDFS` health using `fsck`.](https://ahmedzbyr.gitlab.io/hdfs/hadoop/hdfs-check-blocks/)
+- [HDFS Block Corrupted - `HBase Error Could not seek StoreFileScanner` `Invalid HFile block magic`](https://ahmedzbyr.gitlab.io/hbase/hdfs/hadoop/hbase-block-error/)
 <!-- BLOG-POST-LIST:END -->
 
 
