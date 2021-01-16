@@ -6,7 +6,7 @@
 ## I'm a Husband, Father, Engineer!! 
 
 - 🌱 I’m currently trying to learning everything 
-- 🏢 I work on automation, hadoop, bigdata
+- 🏢 I work on automation, hadoop, bigdata, gcp
 - ⚙️ I use chef, ansible, terraform, python, ruby, bash and many more
 - ⚡ I love EV, Bikes and anything which has a Engine
 
