@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python - List Comprehensions.](https://ahmedzbyr.gitlab.io/python-cheetsheet/python-list-comprehensions/)
 - [Python Getting Started - Learning Notes.](https://ahmedzbyr.gitlab.io/python-cheetsheet/python-getting-started/)
 - [Cloud Monitoring - Stackdriver - GCP Learning Notes.](https://ahmedzbyr.gitlab.io/gcplearning/cloud-monitoring/)
 - [Cloud Databases - SQL/Spanner/Firestore/BigTable/Memorystore - GCP Learning Notes.](https://ahmedzbyr.gitlab.io/gcplearning/cloud-databases/)
 - [getmerge Operation not Permitted](https://ahmedzbyr.gitlab.io/hdfs/linux/hadoop/getmerge-issue/)
-- [Cloud IAM - GCP Learning Notes.](https://ahmedzbyr.gitlab.io/gcplearning/iam/)
 <!-- BLOG-POST-LIST:END -->
 
 
