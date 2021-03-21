@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Postgres on Docker [For Testing].](https://ahmedzbyr.gitlab.io/database/postgres-on-docker/)
 - [Python - Virtual Environment.](https://ahmedzbyr.gitlab.io/python/python-virtual-env/)
 - [Cloud VPN - GCP Learning Notes.](https://ahmedzbyr.gitlab.io/gcplearning/cloud-vpn/)
 - [Python - List Comprehensions.](https://ahmedzbyr.gitlab.io/python-cheetsheet/python-list-comprehensions/)
 - [Python Getting Started - Learning Notes.](https://ahmedzbyr.gitlab.io/python-cheetsheet/python-getting-started/)
-- [Cloud Monitoring - Stackdriver - GCP Learning Notes.](https://ahmedzbyr.gitlab.io/gcplearning/cloud-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 
 
