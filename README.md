@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Validations.](https://ahmedzbyr.gitlab.io/gcp/terraform-validation/)
 - [Setting up Kerberos on a dataproc cluster.](https://ahmedzbyr.gitlab.io/gcp/dataproc-kerberos/)
 - [Setting up Scheduled dataflow backups using Batch templates.](https://ahmedzbyr.gitlab.io/gcp/cloud-scheduler-dataflow/)
 - [Setting up Postgres using Dockerfile.](https://ahmedzbyr.gitlab.io/database/postgres-dockerfile/)
 - [Setting up Postgres on Docker.](https://ahmedzbyr.gitlab.io/database/postgres-on-docker/)
-- [Python - Virtual Environment.](https://ahmedzbyr.gitlab.io/python/python-virtual-env/)
 <!-- BLOG-POST-LIST:END -->
 
 
