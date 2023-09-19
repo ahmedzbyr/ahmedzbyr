@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Validation using `null_resource`.](https://ahmedzbyr.gitlab.io/gcp/terraform-validation-using-null-res/)
-- [Terraform Validations.](https://ahmedzbyr.gitlab.io/gcp/terraform-validation/)
+- [Unleash the Power of Google Cloud with the Cloud Asset Inventory Python API](https://ahmedzbyr.gitlab.io/gcp/gcp-cai-python-api/)
+- [Terraform Workflow Validation with `null_resource`](https://ahmedzbyr.gitlab.io/gcp/terraform-validation-using-null-res/)
+- [Effective Terraform Validation Techniques](https://ahmedzbyr.gitlab.io/gcp/terraform-validation/)
 - [Setting up Kerberos on a dataproc cluster.](https://ahmedzbyr.gitlab.io/gcp/dataproc-kerberos/)
 - [Setting up Scheduled dataflow backups using Batch templates.](https://ahmedzbyr.gitlab.io/gcp/cloud-scheduler-dataflow/)
-- [Setting up Postgres using Dockerfile.](https://ahmedzbyr.gitlab.io/database/postgres-dockerfile/)
 <!-- BLOG-POST-LIST:END -->
 
 
