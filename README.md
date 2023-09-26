@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Compute Engine &lpar;GCE&rpar; Instance with Ansible](https://ahmedzbyr.gitlab.io/gcp/gce-ansible-setup/)
 - [Harnessing the Power of `null_resource` with `local-exec` and `remote-exec` in Terraform](https://ahmedzbyr.gitlab.io/gcp/exec-gce/)
 - [Design IAM on Google Cloud Platform](https://ahmedzbyr.gitlab.io/gcp/iam-module-design/)
 - [Exploring Data Extraction from BigQuery](https://ahmedzbyr.gitlab.io/gcp/bq-data-export/)
 - [10 Tips for Optimizing Your Queries and Reducing Costs in BigQuery](https://ahmedzbyr.gitlab.io/gcp/bq-optimize-costs/)
-- [Unleash the Power of Google Cloud with the Cloud Asset Inventory Python API](https://ahmedzbyr.gitlab.io/gcp/gcp-cai-python-api/)
 <!-- BLOG-POST-LIST:END -->
 
 
