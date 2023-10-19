@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Firestore Native Mode - Point in Time Recovery &lpar;PITR&rpar;](https://ahmedzbyr.gitlab.io/gcp/firestore-native-pitr/)
 - [Automating GCE Image Creation with Packer](https://ahmedzbyr.gitlab.io/gcp/packer-gce-images/)
 - [Google Compute Engine &lpar;GCE&rpar; Instance with Ansible](https://ahmedzbyr.gitlab.io/gcp/gce-ansible-setup/)
 - [Harnessing the Power of `null_resource` with `local-exec` and `remote-exec` in Terraform](https://ahmedzbyr.gitlab.io/gcp/exec-gce/)
 - [Design IAM on Google Cloud Platform](https://ahmedzbyr.gitlab.io/gcp/iam-module-design/)
-- [Exploring Data Extraction from BigQuery](https://ahmedzbyr.gitlab.io/gcp/bq-data-export/)
 <!-- BLOG-POST-LIST:END -->
 
 
