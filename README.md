@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up HashiCorp Vault for Secret Management](https://ahmedzbyr.gitlab.io/gcp/vault-secret/)
 - [Data Export from Datastore &amp;amp; Firestore](https://ahmedzbyr.gitlab.io/gcp/firestore-export/)
 - [Firestore Native Mode - Point in Time Recovery &lpar;PITR&rpar;](https://ahmedzbyr.gitlab.io/gcp/firestore-native-pitr/)
 - [Automating GCE Image Creation with Packer](https://ahmedzbyr.gitlab.io/gcp/packer-gce-images/)
 - [Google Compute Engine &lpar;GCE&rpar; Instance with Ansible](https://ahmedzbyr.gitlab.io/gcp/gce-ansible-setup/)
-- [Harnessing the Power of `null_resource` with `local-exec` and `remote-exec` in Terraform](https://ahmedzbyr.gitlab.io/gcp/exec-gce/)
 <!-- BLOG-POST-LIST:END -->
 
 
