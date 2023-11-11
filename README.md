@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Establishing a Datastream from Cloud SQL &lpar;MySQL&rpar; to BigQuery](https://ahmedzbyr.gitlab.io/gcp/datastream_mysql-bq/)
 - [Setting Up HashiCorp Vault for Secret Management](https://ahmedzbyr.gitlab.io/gcp/vault-secret/)
 - [Data Export from Datastore and Firestore](https://ahmedzbyr.gitlab.io/gcp/firestore-export/)
 - [Firestore Native Mode - Point in Time Recovery &lpar;PITR&rpar;](https://ahmedzbyr.gitlab.io/gcp/firestore-native-pitr/)
 - [Automating GCE Image Creation with Packer](https://ahmedzbyr.gitlab.io/gcp/packer-gce-images/)
-- [Google Compute Engine &lpar;GCE&rpar; Instance with Ansible](https://ahmedzbyr.gitlab.io/gcp/gce-ansible-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 
